@@ -1,0 +1,1 @@
+asymptotic[as-im-tot-ik] 渐近的

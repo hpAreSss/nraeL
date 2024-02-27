@@ -18,3 +18,8 @@ What is a network
 ## Day 5
 Network latency  
 
+## Day 6
+Seems this series of videos could only be a better to have. Going to turn to algorithm and leave these videos to train time. Turn to hello-algo suggested by Bilibili. https://github.com/krahets/hello-algo.  
+The next plan might be https://github.com/krahets/LeetCode-Book.  
+Read through the introduction and 'iteration and recursion'. Begin with 'time complexity' next time.  
+
