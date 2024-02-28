@@ -1,0 +1,1 @@
+magenitude[ˈmæɡnɪtuːd] 巨大
