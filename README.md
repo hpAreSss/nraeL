@@ -28,4 +28,9 @@ Read through the introduction and 'iteration and recursion'. Begin with 'time co
 
 ## Day 7
 
-Time/Space Complexity. Part of basic data structure. Part of number encode.
+Time/Space Complexity. Part of basic data structure. Part of number encode.  
+
+## Day 8
+
+Buy a NAS because of its discount. Learn some knowledge related with NAS.  
+RAID https://www.bilibili.com/video/BV16x411J7VK/  
