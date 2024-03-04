@@ -34,3 +34,7 @@ Time/Space Complexity. Part of basic data structure. Part of number encode.
 
 Buy a NAS because of its discount. Learn some knowledge related with NAS.  
 RAID https://www.bilibili.com/video/BV16x411J7VK/  
+
+## Day 9
+
+Learn Switch. There is display issue in hello-algo. Not too much progress.  
