@@ -38,3 +38,7 @@ RAID https://www.bilibili.com/video/BV16x411J7VK/
 ## Day 9
 
 Learn Switch. There is display issue in hello-algo. Not too much progress.  
+
+## Day 10
+
+Finish encoding. Finsh Array and Linked List.
