@@ -41,4 +41,8 @@ Learn Switch. There is display issue in hello-algo. Not too much progress.
 
 ## Day 10
 
-Finish encoding. Finsh Array and Linked List.
+Finish encoding. Finsh Array and Linked List.  
+
+## Day 11
+
+Stack and Queue, hash table, normal binary tree.  
